@@ -1,51 +1,95 @@
 <h1 align="center">Olá, eu sou o Gabriel Peicher 👋</h1>
 
 <p align="center">
-  🚀 Estudante de Engenharia de Software | Apaixonado por tecnologia, dados e desenvolvimento
+  🚀 Estudante de Engenharia de Software | Apaixonado por Tecnologia, Dados e Desenvolvimento
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabrielpeicher&color=blue" alt="Profile views"/>
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-- 🎓 Atualmente estudando **Engenharia de Software**
+- 🎓 Estudante de **Engenharia de Software**
 - 💻 Apaixonado por programação, dados e resolver problemas
-- 🌱 Aprendendo **Python**, **SQL**, **Análise de Dados** e **Machine Learning**
-- 🤝 Sempre aberto para colaborar em projetos e aprender coisas novas
-- ⚡ Fun fact: Transformo café em código ☕
+- 🌱 Atualmente aprendendo:
+  - **Python** | **SQL** | **Análise de Dados** | **Machine Learning**
+- 🔭 Procurando colaborar em projetos de:
+  - Ciência de Dados, Análise de Dados, e Desenvolvimento Web
+- 👯 Aberto para networking e projetos open-source
+- ⚡ Fun fact: Transformo café ☕ em código e bugs em aprendizado!
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Ferramentas que uso
+
+- 🐍 Python para automações e análise de dados
+- 🧠 Jupyter Notebook para ciência de dados e machine learning
+- 🗄️ SQL para bancos de dados
+- 🌐 HTML e CSS para desenvolvimento web
+- 🔧 Git e GitHub para versionamento de código
+- 🐧 Linux como ambiente de desenvolvimento
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/gabrielpeicher">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpeicher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpeicher&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpeicher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpeicher&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🏆 Troféus do GitHub
 
-<p align="left">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gabrielpeicher&theme=tokyonight&no-bg=true&no-frame=true"/>
+</div>
+
+---
+
+## 🧠 Quote motivacional
+
+> "Qualquer tecnologia suficientemente avançada é indistinguível da magia." – Arthur C. Clarke
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="center">
   <a href="https://www.linkedin.com/in/gabriel-peicher-b59b80233/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:<peichergabriel@gmail.com>">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="mailto:peichergabriel@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://gabrielpeicher.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-121013?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Feito com ❤️ por Gabriel Peicher
 </p>
