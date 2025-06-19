@@ -45,7 +45,6 @@
 - 🗄️ SQL para bancos de dados
 - 🌐 HTML e CSS para desenvolvimento web
 - 🔧 Git e GitHub para versionamento de código
-- 🐧 Linux como ambiente de desenvolvimento
 
 ---
 
@@ -91,5 +90,5 @@
 ---
 
 <p align="center">
-  Feito com ❤️ por Gabriel Peicher
+  Feito por Gabriel Peicher
 </p>
