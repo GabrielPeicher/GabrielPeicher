@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Gabriel Peicher 👋</h1>
+<h1 align="center">👋 Olá, eu sou o Gabriel Peicher</h1>
 
 <p align="center">
   🚀 Estudante de Engenharia de Software | Apaixonado por Tecnologia, Dados e Desenvolvimento
@@ -13,13 +13,13 @@
 ## 🧠 Sobre mim
 
 - 🎓 Estudante de **Engenharia de Software**
-- 💻 Apaixonado por programação, dados e resolver problemas
+- 💻 Apaixonado por programação, dados e resolução de problemas
 - 🌱 Atualmente aprendendo:
   - **Python** | **SQL** | **Análise de Dados** | **Machine Learning**
-- 🔭 Procurando colaborar em projetos de:
-  - Ciência de Dados, Análise de Dados, e Desenvolvimento Web
+- 🔭 Interesse em colaborar em:
+  - Ciência de Dados, Análise de Dados e Desenvolvimento Web
 - 👯 Aberto para networking e projetos open-source
-- ⚡ Fun fact: Transformo café ☕ em código e bugs em aprendizado!
+- ⚡ Curiosidade: Transformo café ☕ em código e bugs em aprendizado!
 
 ---
 
@@ -38,13 +38,13 @@
 
 ---
 
-## 🛠️ Ferramentas que uso
+## 🛠️ O que eu uso no dia a dia
 
-- 🐍 Python para automações e análise de dados
-- 🧠 Jupyter Notebook para ciência de dados e machine learning
-- 🗄️ SQL para bancos de dados
-- 🌐 HTML e CSS para desenvolvimento web
-- 🔧 Git e GitHub para versionamento de código
+- 🐍 **Python** para automações e análise de dados
+- 📊 **Jupyter Notebook** para ciência de dados e machine learning
+- 🗄️ **SQL** para manipulação e consulta de bancos de dados
+- 🌐 **HTML & CSS** para desenvolvimento web
+- 🔧 **Git & GitHub** para versionamento de código
 
 ---
 
@@ -67,9 +67,9 @@
 
 ---
 
-## 🧠 Quote motivacional
+## 💡 Frase que me inspira
 
-> "Qualquer tecnologia suficientemente avançada é indistinguível da magia." – Arthur C. Clarke
+> *"Qualquer tecnologia suficientemente avançada é indistinguível da magia."* – Arthur C. Clarke
 
 ---
 
@@ -90,5 +90,5 @@
 ---
 
 <p align="center">
-  Feito por Gabriel Peicher
+  Feito com ❤️ por <b>Gabriel Peicher</b>
 </p>
