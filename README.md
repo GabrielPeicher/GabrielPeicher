@@ -4,9 +4,6 @@
   🚀 Estudante de Engenharia de Software | Apaixonado por Tecnologia, Dados e Desenvolvimento
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabrielpeicher&color=blue" alt="Profile views"/>
-</p>
 
 ---
 
@@ -26,15 +23,18 @@
 ## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+
+  <img src="https://img.icons8.com/color/96/python--v1.png" width="60" height="60" alt="Python"/>
+  <img src="https://img.icons8.com/fluency/96/jupyter.png" width="60" height="60" alt="Jupyter"/>
+  <img src="https://img.icons8.com/color/96/mysql-logo.png" width="60" height="60" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/96/html-5--v1.png" width="60" height="60" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/96/css3.png" width="60" height="60" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/96/git.png" width="60" height="60" alt="Git"/>
+  <img src="https://img.icons8.com/color/96/github.png" width="60" height="60" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/96/linux.png" width="60" height="60" alt="Linux"/>
+
 </div>
+
 
 ---
 
